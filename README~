@@ -1,12 +1,7 @@
-Modified Phone app based on CM7.2 (2.3.7)
+用Beyond Compare对比源码做修改
 
-Android Telephone Number Location, only for Chinese area. 
+这里只放了修改后的源码.
 
-Put libphoneloc-jni.so, phoneloc.dat into:
 
-/system/usr/share/phoneloc.dat
-/system/lib/libphoneloc-jni.so
-
-Chinese phone location lib for common usage. 
 
 
