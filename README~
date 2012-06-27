@@ -1,0 +1,12 @@
+Modified Phone app based on CM7.2 (2.3.7)
+
+Android Telephone Number Location, only for Chinese area. 
+
+Put libphoneloc-jni.so, phoneloc.dat into:
+
+/system/usr/share/phoneloc.dat
+/system/lib/libphoneloc-jni.so
+
+Chinese phone location lib for common usage. 
+
+
